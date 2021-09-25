@@ -1,0 +1,54 @@
+body{
+background-color: rgb(35, 35, 37);
+}
+.formate{
+    display: inline-block;
+    width: 50px;
+    text-align: center;
+    margin: 20px ;
+    padding: 2px 10px ;
+    font-size: 25px;
+    background-color: rgb(0, 68, 255);
+    color: #fff;
+    border-radius: 5px;
+    font-weight: 700;
+    font-family: monospace;
+}
+
+.warning{
+    background-color: rgb(255, 136, 0);
+    color: black;
+}
+
+.increment{
+    margin: 20px ;
+    padding: 2px 10px;
+    font-size: 20px;
+    background-color: rgb(114, 114, 114);
+    border-radius: 20px;
+    color: #fff;
+    border-color: none;
+}
+
+.delete{
+    margin: 20px ;
+    padding: 2px 10px;
+    font-size: 20px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 20px;
+    color: #fff;
+    border-color: red;
+}
+
+.reset{
+    text-align: center;
+    margin: 20px ;
+    padding: 2px 10px ;
+    font-size: 25px;
+    background-color: rgb(0, 68, 255);
+    color: #fff;
+    border: solid 5px rgba(87, 175, 247, 0.993);
+    border-radius: 5px;
+    font-weight: 700;
+    font-family: monospace;
+}

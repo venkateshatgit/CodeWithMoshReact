@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    justify-content: center;
+}
+.navbar{
+    text-align: center;
+    align-items: center;
+    width: 400px;
+    height: 40px;
+    background-color: rgb(84, 163, 233);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+}
